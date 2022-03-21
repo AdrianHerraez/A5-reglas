@@ -20,7 +20,7 @@ Mediante una hoja de estilos externos se ha de aplicar formato a la página web 
 
 10. El selector id `footer` tendrá un color de fondo negro `background-color: rgb(20, 20, 20);`, un color de texto gris `color: rgb(185, 185, 185);`, un relleno de 10px `padding: 10px;` y el texto estará alineado al centro `text-align: center;`.
 
-11. Por último crearemos un ``media query` de tamaño menor a 800 `@media only screen and (max-width: 800px) {}`.
+11. Por último crearemos un `media query` de tamaño menor a 800 `@media only screen and (max-width: 800px) {}`.
 
 12. Dentro del `media query` añadimos los elemntos `h1` que esten dentro del selector de id `header` y les daremos un relleno del 2% arriba y abajo y 1% a la derecha e izquierda `padding: 2% 1%;` y le pondremos un tamaño de letra de 40 px `font-size: 40px;`.
 
