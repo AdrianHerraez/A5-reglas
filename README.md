@@ -1,6 +1,6 @@
 Mediante una hoja de estilos externos se ha de aplicar formato a la página web de manera que:
 
-1. Cambia el `tipo de fuente` con el selector universal `*` utilizando google fonts.
+1. Cambia el `tipo de fuente` con el selector universal `*` utilizando google fonts `fuente: Quicksand`.
 
 2. Le añadiremos al encabezado `header` usando el selector de id la imagen de fondo `shulek portada` con `background-image`, tambien le daremos una `altura de 100vh` y centraremos la imagen con las etiquetas `background-position: center;` y `background-size: cover;`.
 
